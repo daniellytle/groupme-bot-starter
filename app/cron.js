@@ -1,4 +1,5 @@
 /* 
+	cron.js
 	Register automatic posts
 */
 module.exports = function(content, messenger) {

@@ -1,7 +1,6 @@
 /*
+	content.js
 	Request content:
-	- Inspirational Quotes
-	- Giphy Gifs
 */
 var request = require('request');
 module.exports = {

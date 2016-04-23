@@ -1,3 +1,7 @@
+/*
+	routes.js
+	Handle New Messages	
+*/
 module.exports = function(app, messenger, content, config) {
 
 	// Name call out bot

@@ -1,8 +1,9 @@
 /*
+	messenger.js
 	Post to groupme groups
 */
 var request = require('request');
-var config = require('config');
+var config = require('./config');
 module.exports = {
 	
 	// Sends message to groupme

@@ -1,4 +1,7 @@
-//Think of these require statements as #include statements. They're just pre-built libraries.
+/* 
+	server.js
+	GroupMe Bot Starter 
+*/
 var express = require('express');
 var handles = require('express-handlebars');
 var bodyParser = require('body-parser');
