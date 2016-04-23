@@ -67,10 +67,10 @@ When a message contains your bot's tagname, you can respond with any content. Ch
 
 **Giphy Search**
 
-![Posting Gifs](https://raw.githubusercontent.com/daniellytle/groupme-bot-starter/master/gif.example.gif)
+![ Posting Gifs ](https://raw.githubusercontent.com/daniellytle/groupme-bot-starter/master/gif.example.gif)
 
 **Inspirational Quotes**
 
-![](https://raw.githubusercontent.com/daniellytle/groupme-bot-starter/master/quote.example.gif)
+![ Posting Quotes ](https://raw.githubusercontent.com/daniellytle/groupme-bot-starter/master/inspire.example.gif)
 
 
