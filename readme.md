@@ -12,7 +12,7 @@ Node.js server to interact with the GroupMe Bot API. This project is setup to po
 
 * Node.js
 * Registered GroupMe Bot
-* Hosting (Heroku, Digital Ocean)
+* Hosting (Heroku, Digital Ocean) - *Needed to listen for messages*
 
 ## Setup
 
