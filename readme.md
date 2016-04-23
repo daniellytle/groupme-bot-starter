@@ -48,7 +48,7 @@ $ npm install
 
 Then start the server, sudo is needed to listen on *port 80*.
 ```
-$ sudo npm install
+$ sudo node server.js
 ```
 
 I recommend checking out `npm forever` to make your bot crash with grace.
