@@ -39,9 +39,9 @@ module.exports = {
 
 #### Web Server
 
-You'll be able to post messages to the Group running locally, but you'll need to host the bot publicly to receieve message posts. 
+You'll be able to post messages to the Group running locally, but you'll need to host the bot publicly to receive message posts. 
 
-[Heroku](www.heroku.com) is great for hosting small apps and offers free plans. If you have the *Github Student Developer Pack*, you can use your free tokens on [Digital Ocean](www.digitalocean.com) to host your bot.
+[Heroku](www.heroku.com) is great for hosting small apps and offers free plans. If you have the *Github Student Developer Pack*, you can use your free tokens on [Digital Ocean ](www.digitalocean.com) to host your bot.
 
 Wherever you have your bot, first download the node packages.
 ```
@@ -59,11 +59,11 @@ I recommend checking out `npm forever` to make your bot crash with grace.
 
 #### Automatic Jobs
 
-Schedule posts from your bot from the weather to a normal morning greating. Look in `cron.js` to schedule new jobs.
+Schedule posts from your bot from the weather to a normal morning greeting. Look in `cron.js` to schedule new jobs.
 
 #### Tagged Responses
 
-When a message contains your bot's tagname, you can respond with any content. Check out `content.js` and `routes.js` to handle these messages.
+When a message contains your bot's tag-name, you can respond with any content. Check out `content.js` and `routes.js` to handle these messages.
 
 #### Examples
 
