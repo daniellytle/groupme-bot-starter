@@ -67,9 +67,13 @@ When a message contains your bot's tagname, you can respond with any content. Ch
 
 **Giphy Search**
 
+Using the Giphy API, your bot can post funny gifs when requested.
+
 ![ Posting Gifs ](https://raw.githubusercontent.com/daniellytle/groupme-bot-starter/master/gif.example.gif)
 
 **Inspirational Quotes**
+
+Start your day with schedule quote or get one on demand!
 
 ![ Posting Quotes ](https://raw.githubusercontent.com/daniellytle/groupme-bot-starter/master/inspire.example.gif)
 
