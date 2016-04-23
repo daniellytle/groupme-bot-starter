@@ -59,7 +59,7 @@ I recommend checking out `npm forever` to make your bot crash with grace.
 
 Schedule posts from your bot from the weather to a normal morning greating. Look in `cron.js` to schedule new jobs.
 
-#### Tagged Responses**
+#### Tagged Responses
 
 When a message contains your bot's tagname, you can respond with any content. Check out `content.js` and `routes.js` to handle these messages.
 
