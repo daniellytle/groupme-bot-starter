@@ -18,4 +18,4 @@ require('./app/cron')(content, messenger);
 
 // Start server
 var server = app.listen(80);
-console.log('Server magic happens at port 80');
+console.log('Bot listening on port 80');

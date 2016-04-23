@@ -11,7 +11,7 @@ module.exports = function(content, messenger) {
 			*/
 
 			// Runs everyday at 8:00am
-			messenger.postMessage("Goodmorning GroupMe!");
+			messenger.postMessage("Good morning GroupMe!");
 
 		}, function () {
 			/* This function is executed when the job stops */

@@ -20,7 +20,7 @@ Node.js server to interact with the GroupMe Bot API. This project is setup to po
 
 https://dev.groupme.com/bots/new
 
-Setup config file with bot info. 
+Set GroupMe Callback Url to `<YOUR_IP>/new-message`. Then setup `config.js` file with your bot's info.
 
 **botTagName** is what you'll use to call out your bot in messages. Can be any string.
 **callbackUrl** is the url that GroupMe will post to when a new message is posted in your group.

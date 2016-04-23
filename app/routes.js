@@ -4,10 +4,10 @@ module.exports = function(app, messenger, content, config) {
 	var tagName = config.botTagName;
 	var callbackUrl = config.callbackUrl;
 
-    // New Groupme Message
+    // New GroupMe Message
 	app.post(callbackUrl, function(req, res) {
 
-		// Seperate message
+		// Separate message
 		var text = req.body.text.toLowerCase();
 		var textArray = text.split(' ');
 		
