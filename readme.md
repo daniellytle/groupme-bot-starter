@@ -2,6 +2,8 @@
 
 Flexible starter code for a simple GroupMe bot.
 
+![ Posting Gifs ](https://raw.githubusercontent.com/daniellytle/groupme-bot-starter/master/gif.example.gif)
+
 ## Overview
 
 Node.js server to interact with the GroupMe Bot API. This project is setup to post automated messages as well as respond to messages with inspirational quotes and gifs from giphy. 
@@ -76,5 +78,7 @@ Using the Giphy API, your bot can post funny gifs when requested.
 Start your day with schedule quote or get one on demand!
 
 ![ Posting Quotes ](https://raw.githubusercontent.com/daniellytle/groupme-bot-starter/master/inspire.example.gif)
+
+### Add your own!
 
 
