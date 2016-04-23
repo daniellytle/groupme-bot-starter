@@ -1,7 +1,7 @@
 module.exports = function(app, messenger, content, config) {
 
 	// Name call out bot
-	var tagName = config.botTagName;
+	var tagName = config.botTagName.toLowerCase();
 	var callbackUrl = config.callbackUrl;
 
     // New GroupMe Message
